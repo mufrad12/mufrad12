@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufrad Mustavi</h1>
-<h3 align="center">I am currently an Application Developer Intern at Unisoft Business Solution Ltd. and undergraduate student at American International University Of Bangladesh (AIUB).I'm now studying web development with the goal of becoming a full-stack developer.</h3>
+<h3 align="center">I am currently an Application Developer Intern at Unisoft Business Solution Ltd. and an undergraduate student at American International University Of Bangladesh (AIUB).I'm now studying web development with the goal of becoming a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufrad12&label=Profile%20views&color=0e75b6&style=flat" alt="mufrad12" /> </p>
 
